@@ -388,11 +388,12 @@ ul.header_user_info li.user_desc{
 	padding: 2em 0;
 }
 .logo h1{
-    font-size:7em;
+    font-size:8em;
     text-transform: uppercase;
     margin-bottom: 0;
     font-family: 'Dorsa', sans-serif;
     letter-spacing: 5px;
+	float: right;
 }
 span.m_1 {
   color:#00F0AB;
