@@ -391,9 +391,10 @@ ul.header_user_info li.user_desc{
     font-size:8em;
     text-transform: uppercase;
     margin-bottom: 0;
-    font-family: 'Dorsa', sans-serif;
+    font-family: 'Droid Sans Mono', monospace;
     letter-spacing: 5px;
 	float: right;
+	
 }
 span.m_1 {
   color:#00F0AB;
