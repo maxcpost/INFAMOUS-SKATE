@@ -21,7 +21,7 @@ body a{
 	-ms-transition:0.5s all;
 }
 .banner {
-	background: url(../images/3.jpg) no-repeat center top;
+	background: url(../images/city.jpg) no-repeat center top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -29,6 +29,9 @@ body a{
 	min-height:800px;
 	text-align: center;
 	padding-top:1em;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	
 }
 .header_top_left{
 	float:left;
@@ -403,7 +406,7 @@ span.m_1 {
 	float:left;
 }
 .logo h1 a{
-	color:#fff;
+	color: #fff;
 }
 .logo h1 a:hover{
    text-decoration:none;
