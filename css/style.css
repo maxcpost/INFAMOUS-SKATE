@@ -9,7 +9,7 @@ h1, h2, h3 {margin-top: 0;}
 ul, ol {margin: 0;}
 p {margin: 0;}
 html, body{
-   font-family: 'PT Sans Narrow', sans-serif;
+   font-family: 'Righteous', cursive;
    font-size: 100%;
    background:#fff; 
 }
@@ -394,7 +394,7 @@ ul.header_user_info li.user_desc{
     font-size:8em;
     text-transform: uppercase;
     margin-bottom: 0;
-    font-family: 'Droid Sans Mono', monospace;
+    font-family: 'Righteous', cursive;
     letter-spacing: 5px;
 	float: right;
 	
